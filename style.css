@@ -47,8 +47,8 @@ section {
 
 /* Imagens */
 img {
-    max-width: 100%;
-    margin-left: 400px;
+    display: block;
+    margin: 0 auto;
 
 }
 
